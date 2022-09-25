@@ -13,3 +13,5 @@ This section includes the following Topics:
 * Fundamentals of Data Analysis
 * Overview of Python and Installing Jupyter Notebook
 * Getting Started with NumPy
+* Creating Your First pandas DataFrame [TP1](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
+* Gathering and Loading Data in Python [TP2 ()

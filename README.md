@@ -1,6 +1,6 @@
 # Data_Analysis
 
-## Section 1: Data Analysis Essentials [To learn page 18](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf)
+## Section 1: Data Analysis Essentials [Page 18](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf)
 
 In this section, we will learn how to speak the language of data by extracting useful and
 actionable insights from data using Python and Jupyter Notebook. We'll begin with the

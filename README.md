@@ -1,6 +1,6 @@
 # Data_Analysis
 
-## Section 1: Data Analysis Essentials [To learn](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf#page=18)
+## Section 1: Data Analysis Essentials [To learn page 18](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf)
 
 In this section, we will learn how to speak the language of data by extracting useful and
 actionable insights from data using Python and Jupyter Notebook. We'll begin with the
@@ -13,5 +13,5 @@ This section includes the following Topics:
 * Fundamentals of Data Analysis
 * Overview of Python and Installing Jupyter Notebook
 * Getting Started with NumPy
-* Creating Your First pandas DataFrame [TP1](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
-* Gathering and Loading Data in Python [TP2 ()
+* Creating Your First pandas DataFrame [TP1_part1](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
+* Gathering and Loading Data in Python [TP1_part2](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)

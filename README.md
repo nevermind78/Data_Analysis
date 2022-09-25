@@ -24,10 +24,10 @@ data. Then, we'll learn how to clean and join multiple datasets together using b
 DataFrames with Python. After that, we'll go back to data visualization and learn about the
 best practices when it comes to data storytelling. By the end of this section, you will
 understand the foundations of descriptive analytics.
-This section includes the following chapters:
-* Visualizing and Working with Time Series Data
-* Exploring, Cleaning, Refining, and Blending Datasets
-* Understanding Joins, Relationships, and Aggregates
-* Plotting, Visualization, and Storytelling
+* The section 2 includes the following chapters:
+ * Visualizing and Working with Time Series Data
+ * Exploring, Cleaning, Refining, and Blending Datasets
+ * Understanding Joins, Relationships, and Aggregates
+ * Plotting, Visualization, and Storytelling
 
 

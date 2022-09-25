@@ -17,7 +17,8 @@ Data Discovery.
   * Gathering and Loading Data in Python [TP1_part2](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
 
 
-## Section 2: Solutions for Data Discovery
+## Section 2: Solutions for Data Discovery [Page 123](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf)
+
 In this section, we'll learn how to visualize data for analysis by working with time series
 data. Then, we'll learn how to clean and join multiple datasets together using both SQL and
 DataFrames with Python. After that, we'll go back to data visualization and learn about the

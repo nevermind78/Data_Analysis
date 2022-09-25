@@ -25,15 +25,7 @@ DataFrames with Python. After that, we'll go back to data visualization and lear
 best practices when it comes to data storytelling. By the end of this section, you will
 understand the foundations of descriptive analytics.
 * The section 2 includes the following topics:
- * Visualizing and Working with Time Series Data
- * Exploring, Cleaning, Refining, and Blending Datasets
- * Understanding Joins, Relationships, and Aggregates
- * Plotting, Visualization, and Storytelling
-
-
-* The section 1 includes the following topics:
-  * Fundamentals of Data Analysis
-  * Overview of Python and Installing Jupyter Notebook
-  * Getting Started with NumPy
-  * Creating Your First pandas DataFrame [TP1_part1](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
-  * Gathering and Loading Data in Python [TP1_part2](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
+  * Visualizing and Working with Time Series Data
+  * Exploring, Cleaning, Refining, and Blending Datasets
+  * Understanding Joins, Relationships, and Aggregates
+  * Plotting, Visualization, and Storytelling

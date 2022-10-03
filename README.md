@@ -16,7 +16,7 @@ Data Discovery.
   * Overview of Python and Installing Jupyter Notebook
   * Getting Started with NumPy
   * Creating Your First pandas DataFrame **TP1** : [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nevermind78/Data_Analysis/blob/59aa298ff39a3aff32a49f955bc834c562feef5f/TP1/notebooks/TP1_dataframes_features.ipynb](https://hub-binder.mybinder.ovh/user/nevermind78-data_analysis-9ehfvr3f/notebooks/TP1/notebooks/TP1_dataframes_features.ipynb))
-  * Gathering and Loading Data in Python **TP2** : [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nevermind78/Data_Analysis/tree/main/TP2)
+  * Gathering and Loading Data in Python **TP2** : [![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/nevermind78/Data_Analysis/blob/59aa298ff39a3aff32a49f955bc834c562feef5f/TP1/notebooks/TP1_dataframes_features.ipynb](https://hub-binder.mybinder.ovh/user/nevermind78-data_analysis-9ehfvr3f/notebooks/TP2/notebooks/TP2_retrieve_sql_and_create_dataframe.ipynb))
 
 
 ## Section 2: Solutions for Data Discovery [Page 123](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf)

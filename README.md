@@ -15,8 +15,8 @@ Data Discovery.
   * Fundamentals of Data Analysis
   * Overview of Python and Installing Jupyter Notebook
   * Getting Started with NumPy
-  * Creating Your First pandas DataFrame [TP1_part1](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
-  * Gathering and Loading Data in Python [TP1_part2](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
+  * Creating Your First pandas DataFrame [LAB0](https://github.com/nevermind78/Data_Analysis/tree/main/TP1)
+  * Gathering and Loading Data in Python [LAB1](https://github.com/nevermind78/Data_Analysis/tree/main/TP2)
 
 
 ## Section 2: Solutions for Data Discovery [Page 123](https://github.com/nevermind78/Data_Analysis/blob/main/Practical%20Data%20Analysis%20Using%20Jupyter%20Notebook.pdf)

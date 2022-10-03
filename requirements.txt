@@ -4,3 +4,4 @@ sklearn
 matplotlib
 nltk
 scipy
+ipython-sql

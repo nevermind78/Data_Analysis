@@ -15,7 +15,7 @@ Data Discovery.
   * Fundamentals of Data Analysis
   * Overview of Python and Installing Jupyter Notebook
   * Getting Started with NumPy
-  * Creating Your First pandas DataFrame **TP1** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/mainmain?filepath=)
+  * Creating Your First pandas DataFrame **TP1** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/mainmain?filepath=/TP1/notebooks/TP1_dataframes_features.ipynb)
   * Gathering and Loading Data in Python **TP2** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP2/notebooks/TP2_retrieve_sql_and_create_dataframe.ipynb)
 
 

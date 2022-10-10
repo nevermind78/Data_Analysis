@@ -5,3 +5,4 @@ matplotlib
 nltk
 scipy
 ipython-sql
+seaborn

@@ -31,6 +31,7 @@ DataFrames with Python. After that, we'll go back to data visualization and lear
 best practices when it comes to data storytelling. By the end of this section, you will
 understand the foundations of descriptive analytics.
 * The section 2 includes the following topics:
+  * Exploratory data analysis **TP3**[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP3/TP3.ipynb)
   * Visualizing and Working with Time Series Data
   * Exploring, Cleaning, Refining, and Blending Datasets
   * Understanding Joins, Relationships, and Aggregates

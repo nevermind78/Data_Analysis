@@ -32,6 +32,8 @@ best practices when it comes to data storytelling. By the end of this section, y
 understand the foundations of descriptive analytics.
 * The section 2 includes the following topics:
   * Exploratory data analysis **TP3** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP3/TP3.ipynb)
+  * Visualization with **`matplotlib`** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/matplotlib/main?labpath=PythonGraphes.ipynb)
+ 
   * Visualizing and Working with Time Series Data
   * Exploring, Cleaning, Refining, and Blending Datasets
   * Understanding Joins, Relationships, and Aggregates

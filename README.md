@@ -38,4 +38,4 @@ understand the foundations of descriptive analytics.
   * Exploring, Cleaning, Refining, and Blending Datasets **TP4** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP4/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb)
   * Understanding Joins, Relationships, and Aggregates
   * Plotting, Visualization, and Storytelling
-  * template project for `COVID 19` dataset : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP4/COVID19.ipynb)
+  * Project template for `COVID 19` dataset : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP4/COVID19.ipynb)

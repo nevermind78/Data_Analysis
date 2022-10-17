@@ -35,6 +35,6 @@ understand the foundations of descriptive analytics.
   * Visualization with **`matplotlib`** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/matplotlib/main?labpath=PythonGraphes.ipynb)
  
   * Visualizing and Working with Time Series Data
-  * Exploring, Cleaning, Refining, and Blending Datasets
+  * Exploring, Cleaning, Refining, and Blending Datasets **TP4** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP4/Data%20Cleaning%20with%20Python%20and%20Pandas.ipynb)
   * Understanding Joins, Relationships, and Aggregates
   * Plotting, Visualization, and Storytelling

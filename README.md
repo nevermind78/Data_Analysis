@@ -16,7 +16,7 @@ Data Discovery.
   * Overview of Python and Installing Jupyter Notebook
   * Getting Started with NumPy
   * Creating Your First pandas DataFrame **TP1** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP1/notebooks/TP1_dataframes_features.ipynb)
- [![Binder](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/nevermind78/Data_Analysis/blob/main/TP2_retrieve_sql_and_create_dataframe.ipynb](https://colab.research.google.com/github/nevermind78/Data_Analysis/blob/main/TP1_dataframes_features.ipynb)
+ [![Binder](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/github/nevermind78/Data_Analysis/blob/main/TP2_retrieve_sql_and_create_dataframe.ipynb)(https://colab.research.google.com/github/nevermind78/Data_Analysis/blob/main/TP1_dataframes_features.ipynb)
   * Gathering and Loading Data in Python **TP2** : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/Data_Analysis/main?filepath=/TP2/notebooks/TP2_retrieve_sql_and_create_dataframe.ipynb) 
  [![Binder](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nevermind78/Data_Analysis/blob/main/TP2_retrieve_sql_and_create_dataframe.ipynb)
   * [pandas cheat sheet 1](https://github.com/nevermind78/Data_Analysis/blob/1d5a37f03022eded3a9a7c1d229aaeee40e2cc18/pandas1.pdf)
